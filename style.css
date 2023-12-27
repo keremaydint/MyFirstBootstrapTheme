@@ -1,0 +1,111 @@
+/* General Settings */
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+.bg-primary {
+  background-color: #1abc9c !important;
+}
+
+.bg-secondary {
+  background-color: #2c3e50 !important;
+}
+
+.text-secondary {
+  color: #2c3e50 !important;
+}
+
+/* Nav Section */
+
+#mainNav {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+}
+
+.nav-link:hover {
+  color: #1abc9c !important;
+  transition: 0.5s ease !important;
+}
+
+/* Hero Section */
+
+.hero {
+  padding-top: 12.5rem;
+  padding-bottom: 5rem;
+}
+
+.hero-avatar {
+  width: 15rem;
+}
+
+.hero-heading {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  font-weight: 700;
+}
+
+.hero-tag {
+  font-size: 1.5rem;
+}
+
+/* Portfolio Section */
+
+.portfolio {
+  padding: 6rem 0;
+}
+
+.portfolio h2 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 2.5rem;
+}
+
+.portfolio img {
+  border-radius: 10px;
+}
+
+/* About Section */
+
+.about {
+  padding: 6rem 0;
+}
+
+.about h2 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 2.5rem;
+}
+
+.about p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+/* Footer Section */
+
+.btn-xl {
+  padding: 1rem 1.75rem;
+  font-size: 1.25rem;
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+}
+
+.footer p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+/* Copyright Section */
+
+.copyright {
+  background-color: #1a252f;
+}
